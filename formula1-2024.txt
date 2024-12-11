@@ -18,7 +18,7 @@ Italy	01 Sep 2024	Charles Leclerc	Ferrari	53	1:14:40.727
 Azerbaijan	15 Sep 2024	Oscar Piastri	McLaren Mercedes	51	1:32:58.007
 Singapore	22 Sep 2024	Lando Norris	McLaren Mercedes	62	1:40:52.571
 United States	20 Oct 2024	Charles Leclerc	Ferrari	56	1:35:09.639
-Mexico		27 Oct 2024	Carlos Sainz	Ferrari	71	1:40:55.800
+Mexico  27 Oct 2024  Carlos Sainz  Ferrari  71  1:40:55.800
 Brazil	03 Nov 2024	Max Verstappen	Red Bull Racing Honda RBPT	69	2:06:54.430
 Las Vegas	23 Nov 2024	George Russell	Mercedes	50	1:22:05.969
 Qatar	01 Dec 2024	Max Verstappen	Red Bull Racing Honda RBPT	57	1:31:05.323
